@@ -32,9 +32,9 @@ python run.py <vocab.json> [<lesson_id> [<page_id>]]
 ```
 
 Parameters
-<vocab.json>: The path to the vocabulary database file (must be in JSON format).
-<lesson_id> (optional): The specific lesson you want to quiz on (e.g., L1, L2, etc.).
-<page_id> (optional): The specific page within the lesson to quiz on (e.g., 1, 2, etc.).
+- **<vocab.json>:** The path to the vocabulary database file (must be in JSON format).
+- **<lesson_id> (optional):** The specific lesson you want to quiz on (e.g., L1, L2, etc.).
+- **<page_id> (optional):** The specific page within the lesson to quiz on (e.g., 1, 2, etc.).
 
 Examples
 To run the quiz for all vocabulary in lesson L1:
