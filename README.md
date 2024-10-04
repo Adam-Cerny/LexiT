@@ -10,7 +10,7 @@ LexiT is a terminal-based vocabulary training application designed primarily for
 - **Cross-Platform Compatibility:** While primarily developed for Linux, LexiT can be run on Windows and Mac, making it accessible to a broader audience.
 - **Example Database:** LexiT includes an example database derived from the *Passt schon 4* German workbook, providing a clear guideline on how vocabulary words should be structured and added to the application.
 
-## Instalation
+## Installation
 
 1. Clone the repository:
     ```bash
