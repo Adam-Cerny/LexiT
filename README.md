@@ -10,9 +10,46 @@ LexiT is a terminal-based vocabulary training application designed primarily for
 - **Cross-Platform Compatibility:** While primarily developed for Linux, LexiT can be run on Windows and Mac, making it accessible to a broader audience.
 - **Example Database:** LexiT includes an example database derived from the *Mein Pass schon 4* German workbook, providing a clear guideline on how vocabulary words should be structured and added to the application.
 
-## Getting Started
+## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd LexiT
+    ```bash
+    git clone <repository-url>
+    cd LexiT
+    ```
+
+2. Ensure you have Python installed. You can check this by running:
+    ```bash
+    python --version
+    ```
+
+3. Run the Application
+
+To run the application, use the following command:
+
+```bash
+python run.py <vocab.json> [<lesson_id> [<page_id>]]
+```
+
+Parameters
+<vocab.json>: The path to the vocabulary database file (must be in JSON format).
+<lesson_id> (optional): The specific lesson you want to quiz on (e.g., L1, L2, etc.).
+<page_id> (optional): The specific page within the lesson to quiz on (e.g., 1, 2, etc.).
+
+Examples
+To run the quiz for all vocabulary in lesson L1:
+```bash
+python run.py vocab.json L1
+```
+
+To run the quiz for a specific page in lesson L3:
+```bash
+python run.py vocab.json L3 2
+```
+
+To run the quiz for all vocabulary without specifying a lesson or page:
+```bash
+python run.py vocab.json
+```
+
+
