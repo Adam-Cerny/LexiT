@@ -36,18 +36,18 @@ python run.py <vocab.json> [<lesson_id> [<page_id>]]
 - **<lesson_id> (optional):** The specific lesson you want to quiz on (e.g., L1, L2, etc.).
 - **<page_id> (optional):** The specific page within the lesson to quiz on (e.g., 1, 2, etc.).
 
-**Examples**\
-To run the quiz for all vocabulary in lesson L1:
+**Examples**
+- To run the quiz for all vocabulary in lesson L1:
 ```bash
 python run.py vocab.json L1
 ```
 
-To run the quiz for a specific page in lesson L3:
+- To run the quiz for a specific page in lesson L3:
 ```bash
 python run.py vocab.json L3 2
 ```
 
-To run the quiz for all vocabulary without specifying a lesson or page:
+- To run the quiz for all vocabulary without specifying a lesson or page:
 ```bash
 python run.py vocab.json
 ```
