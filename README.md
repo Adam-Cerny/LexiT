@@ -1,0 +1,2 @@
+# LexiT
+Vocabulary Training App
