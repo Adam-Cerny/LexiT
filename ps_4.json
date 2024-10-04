@@ -1,0 +1,300 @@
+{
+    "L3": {
+        "26": [
+            {
+                "czech": "podobný, podobně",
+                "german": "ähnlich",
+                "score": 0
+            },
+            {
+                "czech": "druh, způsob",
+                "german": "die Art, die Arten",
+                "score": 0
+            },
+            {
+                "czech": "výjimka",
+                "german": "die Ausnahme, die Ausnahmen",
+                "score": 0
+            },
+            {
+                "czech": "průvodce",
+                "german": "der Bergleiter, die Bergleiter",
+                "score": 0
+            },
+            {
+                "czech": "obstarat",
+                "german": "besorgen",
+                "score": 0
+            },
+            {
+                "czech": "zlý, zlobivý, zle",
+                "german": "böse",
+                "score": 0
+            },
+            {
+                "czech": "zvyk",
+                "german": "der Brauch, die Bräuche",
+                "score": 0
+            },
+            {
+                "czech": "chytit, chytat",
+                "german": "fangen",
+                "score": 0
+            },
+            {
+                "czech": "ohňostroj",
+                "german": "das Feuerwerk, die Feuerwerke",
+                "score": 0
+            },
+            {
+                "czech": "kruh",
+                "german": "der Kreis, die Kreise",
+                "score": 0
+            },
+            {
+                "czech": "polibek",
+                "german": "der Kuss, die Küsse",
+                "score": 0
+            },
+            {
+                "czech": "čtenář",
+                "german": "der Leser, die Leser",
+                "score": 0
+            },
+            {
+                "czech": "Mikuláš",
+                "german": "der Nikolaus, die Nikoläuse",
+                "score": 0
+            },
+            {
+                "czech": "závod, běh",
+                "german": "das Rennen, die Rennen",
+                "score": 0
+            },
+            {
+                "czech": "speciální, speciálně",
+                "german": "speziell",
+                "score": 0
+            },
+            {
+                "czech": "varování",
+                "german": "die Warnung, die Warnungen",
+                "score": 0
+            },
+            {
+                "czech": "po letním slunovratu",
+                "german": "nach der Sommersonnenwende",
+                "score": 0
+            },
+            {
+                "czech": "rychlostí 110 km za hodinu",
+                "german": "mit einer Geschwindigkeit von 110 km pro Stunde",
+                "score": 0
+            },
+            {
+                "czech": "bavorská vláda",
+                "german": "die bayerische Regierung",
+                "score": 0
+            },
+            {
+                "czech": "Můžeme ochutnat lososa a sledě.",
+                "german": "Wir können Lachs und Herring kosten.",
+                "score": 0
+            },
+            {
+                "czech": "Je dovoleno soupeře uhodit a kopnout.",
+                "german": "Man darf den Gegner schlagen und treten.",
+                "score": 0
+            },
+            {
+                "czech": "Běží za sýrem, který váží čtyři a půl kilogramu.",
+                "german": "Sie laufen einem neun Pfund schweren Käse hinterher.",
+                "score": 0
+            },
+            {
+                "czech": "Sýr se kutálí z kopce.",
+                "german": "Der Käse rollt einen Hügel hinunter.",
+                "score": 0
+            },
+            {
+                "czech": "Připijeme si na nový rok.",
+                "german": "Wir stoßen auf das neue Jahr an.",
+                "score": 0
+            }
+        ],
+        "28": [
+            {
+                "czech": "vůbec",
+                "german": "überhaupt",
+                "score": 2
+            },
+            {
+                "czech": "bonbón",
+                "german": "der/das Bonbon, die Bonbons",
+                "score": 1
+            },
+            {
+                "czech": "co se mě týče",
+                "german": "von mir aus",
+                "score": 3
+            },
+            {
+                "czech": "udělat dojem",
+                "german": "Eindruck machen",
+                "score": 2
+            },
+            {
+                "czech": "pytel",
+                "german": "der Sack, die Säcke",
+                "score": 1
+            },
+            {
+                "czech": "místo",
+                "german": "statt",
+                "score": 1
+            },
+            {
+                "czech": "Chtěl bych se u tebe zastavit.",
+                "german": "Ich möchte bei dir vorbeikommen.",
+                "score": 0
+            },
+            {
+                "czech": "tichý, tiše",
+                "german": "still",
+                "score": 1
+            },
+            {
+                "czech": "hořký, hočce",
+                "german": "bitter",
+                "score": 1
+            },
+            {
+                "czech": "dojem",
+                "german": "der Eindruck, die Eindrücke",
+                "score": 0
+            },
+            {
+                "czech": "lhát",
+                "german": "lügen",
+                "score": 0
+            },
+            {
+                "czech": "pralinka",
+                "german": "die Praline, die Pralinen",
+                "score": 1
+            },
+            {
+                "czech": "zastavit se u někoho",
+                "german": "vorbei/kommen bei j-m",
+                "score": 1
+            },
+            {
+                "czech": "plnit, naplnit",
+                "german": "füllen",
+                "score": 0
+            },
+            {
+                "czech": "bonboniéra s pralinkami",
+                "german": "eine Schachtel mit Pralinen",
+                "score": 0
+            }
+        ],
+        "29": [
+            {
+                "czech": "odměnit",
+                "german": "belohnen",
+                "score": 0
+            },
+            {
+                "czech": "anděl",
+                "german": "der Engel, die Engel",
+                "score": 0
+            },
+            {
+                "czech": "polekat, vyděsit někoho",
+                "german": "erschrecken j-n",
+                "score": 0
+            },
+            {
+                "czech": "leknout se",
+                "german": "erschrecken",
+                "score": 0
+            },
+            {
+                "czech": "dřevo",
+                "german": "das Holz, 0",
+                "score": 0
+            },
+            {
+                "czech": "koš",
+                "german": "der Korb, die Körbe",
+                "score": 0
+            },
+            {
+                "czech": "pochválit, chválit",
+                "german": "loben",
+                "score": 0
+            },
+            {
+                "czech": "maska",
+                "german": "die Maske, die Masken",
+                "score": 0
+            },
+            {
+                "czech": "chodec",
+                "german": "der Passant, die Passanten",
+                "score": 0
+            },
+            {
+                "czech": "sbírat, vybírat",
+                "german": "sammeln",
+                "score": 0
+            },
+            {
+                "czech": "čert",
+                "german": "der Teufel, die Teufel",
+                "score": 0
+            },
+            {
+                "czech": "rozdat, rozdávat",
+                "german": "verteilen",
+                "score": 0
+            },
+            {
+                "czech": "divoký, divoce",
+                "german": "wild",
+                "score": 0
+            },
+            {
+                "czech": "chodit od domu k domu",
+                "german": "von Haus zu Haus gehen",
+                "score": 0
+            },
+            {
+                "czech": "svatý muž",
+                "german": "der heilige Mann",
+                "score": 0
+            },
+            {
+                "czech": "Děti recitují krátké básničky.",
+                "german": "Die Kinder sagen kleine Gedichte auf.",
+                "score": 0
+            },
+            {
+                "czech": "Mikuláš chválí a kárá.",
+                "german": "Der Nikolaus lobt und tadelt.",
+                "score": 0
+            },
+            {
+                "czech": "Mikuláš dává sladkosti.",
+                "german": "Der Nikolaus gibt Süßigkeiten.",
+                "score": 0
+            },
+            {
+                "czech": "Podle legendy navštěvuje děti.",
+                "german": "Er besucht die Kinder nach der Legende.",
+                "score": 0
+            }
+        ]
+    }
+}
