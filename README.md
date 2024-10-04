@@ -8,7 +8,7 @@ LexiT is a terminal-based vocabulary training application designed primarily for
 - **Adaptive Learning:** The app prioritizes words that you've struggled with by asking them more frequently. This helps reinforce your memory and improve retention.
 - **Randomized Questions:** To keep the learning experience engaging, LexiT presents vocabulary questions in a random order, ensuring a varied practice each time you use it.
 - **Cross-Platform Compatibility:** While primarily developed for Linux, LexiT can be run on Windows and Mac, making it accessible to a broader audience.
-- **Example Database:** LexiT includes an example database derived from the *Mein Pass schon 4* German workbook, providing a clear guideline on how vocabulary words should be structured and added to the application.
+- **Example Database:** LexiT includes an example database derived from the *Passt schon 4* German workbook, providing a clear guideline on how vocabulary words should be structured and added to the application.
 
 ## Instalation
 
